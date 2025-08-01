@@ -78,6 +78,7 @@
 - KAKAO
 - Ridibooks
 - KnowledgeOwl
+- Motorola
 - 기타 다수 서비스 및 제품
 
 ---
