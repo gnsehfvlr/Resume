@@ -33,6 +33,7 @@
 
 ## 🏆 수상 경력
 
+- **2025** Creditcoin:Moonshot Idea Space 아이디어톤 - 3rd
 - **2025** 제6회 호남사이버보안 컨퍼런스 웹취약점경진대회 - 우수상(한국전력거래소 이사장상)
 - **2025** 제3회 전라남도 웹취약점 경진대회 - 최우수상
 - **2025** Google Threat Intelligence CTF Workshop - 2위
