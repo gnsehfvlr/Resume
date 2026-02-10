@@ -2,7 +2,7 @@
 
 <h2 align="center">🛡️ Security Researcher & Engineer</h2>
 <p align="center">
-  보안 분야에서 8년 이상의 경험을 바탕으로<br>
+  보안 분야에서 9년 이상의 경험을 바탕으로<br>
   <strong>취약점 분석</strong>, <strong>모의해킹</strong>, <strong>개발</strong> 등 다양한 보안 업무를 수행하고 있습니다.
 </p>
 
